@@ -22,7 +22,7 @@ module.exports = {
     {
       type: "category",
       label: "Tutorial",
-      items: ["intro"],
+      items: ["intro", "live-coding"],
     },
     {
       type: "category",
